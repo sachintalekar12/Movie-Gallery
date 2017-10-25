@@ -1,0 +1,99 @@
+body{background: #16181e;color:white;}
+.card{
+    background: transparent;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 2em;   
+    box-shadow: 3px 1px 8px 0px #808080;
+	border-bottom: 1px solid #d2d2d2;
+    border-left: 1px solid #dadada;
+    margin: 0 1em 2em 1em;
+  }
+  .cards{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .container {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 3em 1em;
+  }
+  .img_icon {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .description {
+    text-align: justify;
+    font-family: "Allerta Stencil", Sans-serif;
+  }
+  a {
+    text-decoration: none;
+	cursor:default !important;
+  }
+  p,
+  a {
+    font-size: 14px;
+  }
+  h1 {
+    font-family: "Allerta Stencil", Sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid  white;
+  }
+  .rw {
+    margin-bottom: 25px !important;
+  }
+  .btnn {
+    display: inline;
+    border-radius: 1px;
+    font-family: sans-serif;
+	
+
+	
+    
+  }.content a{text-decoration: none;}
+.custom-dropdown {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+	font-size: 1.2em;
+	padding-left:45px;
+	
+}
+
+
+.custom-dropdown select {
+    background-color: #f0f0f0;
+    margin: 0;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    width: 130px;
+    padding-left: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    height: 40px;
+    color: #a2a2a2;
+    font-size: .9em;
+    font-weight: normal;
+    overflow: hidden;
+	     background: url(http://skymotors.org/select-arrows.svg) no-repeat 115px 12px #282828;/* my  website link for dropdown arrow image*/
+border: 0;
+    padding: auto;
+}
+
+.pagina{
+	width: 100%;
+
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
